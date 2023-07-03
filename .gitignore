@@ -1,0 +1,9 @@
+# IDEA stuff
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Maven stuff
+target/
+*.pom.bkpª
